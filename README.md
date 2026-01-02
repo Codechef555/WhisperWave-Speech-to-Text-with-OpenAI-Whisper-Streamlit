@@ -45,6 +45,8 @@ env
 
 - OPENAI_API_KEY=your_openai_api_key_here
 
+**-------------------------------------------------------------------------------------**
+
 ▶️ Running the App Locally
 
 1️⃣ Clone the repository
@@ -68,13 +70,13 @@ http://localhost:8501
 
 🐳 Run with Docker
 
-Build the image
+- Build the image
 
-docker build -t whisperwave .
+- docker build -t whisperwave .
 
-Run the container
+- Run the container
 
-docker run -p 8501:8501 --env-file .env whisperwave
+- docker run -p 8501:8501 --env-file .env whisperwave
 
 📸 How It Works
 
@@ -88,33 +90,33 @@ docker run -p 8501:8501 --env-file .env whisperwave
 
 🧠 OpenAI Model Used
 
-Model: whisper-1
+- Model: whisper-1
 
-Purpose: Automatic Speech Recognition (ASR)
+- Purpose: Automatic Speech Recognition (ASR)
 
 ⚠️ Notes
 
-Requires an active OpenAI API key
+- Requires an active OpenAI API key
 
-Audio is temporarily stored during transcription
+- Audio is temporarily stored during transcription
 
-Best performance with clear audio input
+- Best performance with clear audio input
 
 📌 Future Improvements
 
-Support for multiple languages
+- Support for multiple languages
 
-Audio file upload option
+- Audio file upload option
 
-Timestamped transcription
+- Timestamped transcription
 
-UI enhancements
+- UI enhancements
 
 🤝 Contributing
 
-Contributions are welcome!
+- Contributions are welcome!
 
-Feel free to open issues or submit pull requests.
+- Feel free to open issues or submit pull requests.
 
 📜 License
 
@@ -126,8 +128,8 @@ OpenAI Whisper
 
 Streamlit Community
 
-<------------------------------------------------------------------------------------->
-<------------------------------------------------------------------------------------->
+**-------------------------------------------------------------------------------------**
+**-------------------------------------------------------------------------------------**
 
 Authors:
 
