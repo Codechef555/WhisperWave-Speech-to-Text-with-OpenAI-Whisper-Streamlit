@@ -25,9 +25,13 @@ WhisperWave is a simple and interactive Speech-to-Text web application built usi
 
 ## 📂 Project Structure
 ├── app.py
+
 ├── requirements.txt
+
 ├── Dockerfile
+
 ├── README.md
+
 └── .env
 
 
