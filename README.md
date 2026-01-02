@@ -25,13 +25,9 @@ WhisperWave is a simple and interactive Speech-to-Text web application built usi
 
 ## 📂 Project Structure
 ├── app.py
-
 ├── requirements.txt
-
 ├── Dockerfile
-
 ├── README.md
-
 └── .env
 
 
@@ -43,7 +39,7 @@ Create a `.env` file in the project root:
 
 env
 
-OPENAI_API_KEY=your_openai_api_key_here
+- OPENAI_API_KEY=your_openai_api_key_here
 
 ▶️ Running the App Locally
 
@@ -131,4 +127,4 @@ Streamlit Community
 
 Authors:
 
-Name : MD Karaamathullah sheriff| Email : mdkaraamathullahsheriff@gmail.com 
+- **Name : MD Karaamathullah sheriff| Email : mdkaraamathullahsheriff@gmail.com** 
